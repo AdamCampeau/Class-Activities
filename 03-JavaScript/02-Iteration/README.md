@@ -22,6 +22,8 @@ If you have completed this activity, work through the following challenge with y
 
 * What is a `while` loop?
 
+A while loop is another form of flow control. It allows the code to be executed, even  repeatedly, as long as it meets the set Boolean condition (True/False)
+
 Use [Google](https://www.google.com) or another search engine to research this.
 
 ---
