@@ -30,6 +30,8 @@ If you have completed this activity, work through the following challenge with y
 
 * What is hoisting?
 
+Hoisting hoists the variable, allowing it be called (used) before it's declared (created).
+
 Use [Google](https://www.google.com) or another search engine to research this.
 
 ---
