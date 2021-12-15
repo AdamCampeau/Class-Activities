@@ -22,6 +22,8 @@ If you have completed this activity, work through the following challenge with y
 
 * What is lexical scope?
 
+Lexical scoping, or static scoping, is when the scope (functionality) of a variable so that it can only be called (referenced) in the block that it's declared in.
+
 Use [Google](https://www.google.com) or another search engine to research this.
 
 ---
