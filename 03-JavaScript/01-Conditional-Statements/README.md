@@ -24,6 +24,8 @@ If you have completed this activity, work through the following challenge with y
 
 * What is a switch case?
 
+It is selection control, allowing a variable or an expression to change the flow of how code is executed. 
+
 Use [Google](https://www.google.com) or another search engine to research this.
 
 ---
